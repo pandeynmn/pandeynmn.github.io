@@ -1,0 +1,20 @@
+{
+    "buildTime":"2021-02-05T15:23:52.619Z",
+    "sources":[
+        {
+            "id":"BatoTo",
+            "name":"Bato.To",
+            "author":"GameFuzzy",
+            "desc":"Extension that pulls western comics from bato.to",
+            "website":"http://github.com/gamefuzzy",
+            "version":"1.1.5",
+            "icon":"icon.png",
+            "tags":[
+                {
+                    "text":"Notifications",
+                    "type":"success"
+                }
+            ],
+            "websiteBaseURL":"https://bato.to"
+        }
+}
